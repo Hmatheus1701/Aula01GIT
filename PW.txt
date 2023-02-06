@@ -1,0 +1,9 @@
+C:\Users\etechas>d:
+
+D:\>md 2bi_MatheusVinicius
+
+D:\>cd 2bi_MatheusVinicius
+
+D:\2bi_MatheusVinicius>git config --global user.name "MatheusVinicius"
+
+D:\2bi_MatheusVinicius>git config --global user.email "matheus.silva2505@etec.sp.gov.br
